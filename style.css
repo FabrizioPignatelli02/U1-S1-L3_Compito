@@ -1,0 +1,97 @@
+
+
+body{
+    margin: 0;
+}
+
+.logo_simply{
+    margin-top: 0;;
+    margin-inline: auto;
+    width: 250px;
+
+}
+
+.logo_simply img{
+   width: 100%;
+}
+
+.subtitle{
+    text-align: center;
+    background-color: #FDFBF1;
+    box-shadow: 0 -1px 6px #FFD877;
+}
+
+.subtitle p{
+    color: #135654;
+    padding: 20px;
+}
+
+.articolo{
+    margin-top: 0;;
+    margin-inline: auto;
+    width: 650px;
+
+}
+
+.titolo{
+    width: 600px;
+    margin-inline: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.sottotitolo{
+    width: 700px;
+}
+
+.image img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.image p{
+    text-align: center;
+    font-size: 15px;
+    color: rgba(110, 110, 110, 0.74);
+}
+
+.featured a, h3{
+    margin: 0;
+    margin-left: 15px;
+}
+
+.featured{
+    box-shadow: -3px 0 0 #FFD877;
+}
+
+.featured h3{
+    color: #B5460F;
+}
+
+a{
+    color: #107777;
+}
+
+#ingredienti{
+    box-shadow: 0 2px 0 #7bd5d5a6;
+}
+
+#ingredienti h2{
+    padding-bottom: 20px;
+}
+
+.ricetta h3{
+    margin: 0;
+}
+
+.method{
+    box-shadow: 0 2px 0 #7bd5d5a6;
+}
+
+.paragraph{
+    list-style: none;
+}
+
