@@ -45,13 +45,9 @@ h1{
 
 
 .sottotitolo{
-    width: 700px;
-}
-
-.image img{
-    border-radius: 10px;
     width: 100%;
 }
+
 
 .image p{
     text-align: center;
@@ -94,5 +90,10 @@ a{
 
 .paragraph{
     list-style: none;
+}
+
+video{
+    width: 100%;
+    border-radius: 10px;
 }
 
